@@ -71,6 +71,7 @@ namespace gerenciamento_Ti.Controllers
         [HttpPost]
         public async Task<IActionResult> Create([FromBody] ChamadoDTO chamadoDTO)
         {
+            //todo: MOVER REGRAS DE NEGÓCIO PARA SÉRVICE, CONTROLLER DEVE TRATAR APENAS DE PROTOCOLO HTTP(S)
             //validação do chamado
             if (chamadoDTO == null)
                 return BadRequest();
