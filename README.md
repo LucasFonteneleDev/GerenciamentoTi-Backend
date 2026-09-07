@@ -1,4 +1,4 @@
-﻿# 🛠️ ControleChamadosTI — Backend
+﻿# 🛠️ GerenciamentoTI — Backend
 
 API REST do sistema web de gerenciamento de **equipamentos, patrimônio e chamados de TI**.
 
