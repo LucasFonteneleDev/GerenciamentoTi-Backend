@@ -64,7 +64,7 @@ A implementação de **testes automatizados** está prevista como uma próxima e
 
 Este backend possui um frontend desenvolvido separadamente:
 
-👉 **[ControleChamadosTI — Frontend](https://github.com/LucasFonteneleDev/gerenciamento_ti_front)**
+👉 **[ControleChamadosTI — Frontend](https://github.com/LucasFonteneleDev/GerenciamentoTi-Front)**
 
 ---
 
